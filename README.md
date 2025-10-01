@@ -74,8 +74,7 @@ The repository is structured with clear commit history showing the development p
 
 ## Deployment
 
-The site is deployed on GitHub Pages at: [(https://github.com/harrisonokpara96-sudo/portfolio-website)]
-
+The site is deployed on GitHub Pages at: [(https://github.com/harrisonokpara96-sudo/Personal-Portfolio-Website.git)]
 ## Copyright
 
 © 2025 Harrison Okpara. All rights reserved.
